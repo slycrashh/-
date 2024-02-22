@@ -3,15 +3,19 @@
   "WorkspaceRootPath": "D:\\\u043B\u0430\u0431\u044B\\isrpo16\\-\\Template4338\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E9AE570E-75AB-4C39-8899-3007FA849529}|Template4338\\Template4338.csproj|d:\\\u043B\u0430\u0431\u044B\\isrpo16\\-\\template4338\\template4338\\4338kamashev.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E9AE570E-75AB-4C39-8899-3007FA849529}|Template4338\\Template4338.csproj|solutionrelative:template4338\\4338kamashev.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9AE570E-75AB-4C39-8899-3007FA849529}|Template4338\\Template4338.csproj|D:\\\u043B\u0430\u0431\u044B\\isrpo16\\-\\Template4338\\template4338\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9AE570E-75AB-4C39-8899-3007FA849529}|Template4338\\Template4338.csproj|solutionrelative:template4338\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E9AE570E-75AB-4C39-8899-3007FA849529}|Template4338\\Template4338.csproj|d:\\\u043B\u0430\u0431\u044B\\isrpo16\\-\\template4338\\template4338\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E9AE570E-75AB-4C39-8899-3007FA849529}|Template4338\\Template4338.csproj|solutionrelative:template4338\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9AE570E-75AB-4C39-8899-3007FA849529}|Template4338\\Template4338.csproj|d:\\\u043B\u0430\u0431\u044B\\isrpo16\\-\\template4338\\template4338\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9AE570E-75AB-4C39-8899-3007FA849529}|Template4338\\Template4338.csproj|solutionrelative:template4338\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9AE570E-75AB-4C39-8899-3007FA849529}|Template4338\\Template4338.csproj|d:\\\u043B\u0430\u0431\u044B\\isrpo16\\-\\template4338\\template4338\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{E9AE570E-75AB-4C39-8899-3007FA849529}|Template4338\\Template4338.csproj|D:\\\u043B\u0430\u0431\u044B\\isrpo16\\-\\Template4338\\template4338\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E9AE570E-75AB-4C39-8899-3007FA849529}|Template4338\\Template4338.csproj|solutionrelative:template4338\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,20 +50,32 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "4338Kamashev.xaml",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0431\u044B\\isrpo16\\-\\Template4338\\Template4338\\4338Kamashev.xaml",
+              "RelativeDocumentMoniker": "Template4338\\4338Kamashev.xaml",
+              "ToolTip": "D:\\\u043B\u0430\u0431\u044B\\isrpo16\\-\\Template4338\\Template4338\\4338Kamashev.xaml",
+              "RelativeToolTip": "Template4338\\4338Kamashev.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-22T07:07:46.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\\u043B\u0430\u0431\u044B\\isrpo16\\-\\Template4338\\Template4338\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Template4338\\MainWindow.xaml.cs",
               "ToolTip": "D:\\\u043B\u0430\u0431\u044B\\isrpo16\\-\\Template4338\\Template4338\\MainWindow.xaml.cs",
               "RelativeToolTip": "Template4338\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-22T07:00:23.818Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\\u043B\u0430\u0431\u044B\\isrpo16\\-\\Template4338\\Template4338\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Template4338\\MainWindow.xaml",
@@ -71,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\\u043B\u0430\u0431\u044B\\isrpo16\\-\\Template4338\\Template4338\\App.xaml",
               "RelativeDocumentMoniker": "Template4338\\App.xaml",

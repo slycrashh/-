@@ -25,7 +25,7 @@ namespace Template4338
             InitializeComponent();
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        private void 4338Kamashev(object sender, RoutedEventArgs e)
         {
             b.Content = "Равиль 18";
         }
