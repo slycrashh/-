@@ -38,6 +38,8 @@
             <RowDefinition Height="*"></RowDefinition>
 
         </Grid.RowDefinitions>
-
+        <Button Grid.Row="6" x:Name="b" Content="Click"></Button>
+        <Button Grid.Row="7" Click="b2_Click"  x:Name="b2" Content="Импорт"></Button>
+        <Button Grid.Row="8" Click="b3_Click"  x:Name="b3" Content="Экспорт"></Button>
     </Grid>
 </Window>

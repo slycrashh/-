@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище sadModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="isrpo">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FIO" Type="varchar" MaxLength="100" />
+    <Property Name="KOD" Type="varchar" MaxLength="100" />
+    <Property Name="DAtta" Type="varchar" MaxLength="100" />
+    <Property Name="INNdex" Type="varchar" MaxLength="100" />
+    <Property Name="GOROD" Type="varchar" MaxLength="100" />
+    <Property Name="ULICA" Type="varchar" MaxLength="100" />
+    <Property Name="DOM" Type="varchar" MaxLength="100" />
+    <Property Name="KV" Type="varchar" MaxLength="100" />
+    <Property Name="email" Type="varchar" MaxLength="100" />
+  </EntityType>
+  <EntityContainer Name="Хранилище sadModelContainer">
+    <EntitySet Name="isrpo" EntityType="Self.isrpo" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

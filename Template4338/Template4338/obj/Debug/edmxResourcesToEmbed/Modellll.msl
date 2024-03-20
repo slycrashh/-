@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище im1ModelContainer" CdmEntityContainer="im1Entities">
+    <EntitySetMapping Name="imm">
+      <EntityTypeMapping TypeName="im1Model.imm">
+        <MappingFragment StoreEntitySet="imm">
+          <ScalarProperty Name="FIO" ColumnName="FIO" />
+          <ScalarProperty Name="KOD" ColumnName="KOD" />
+          <ScalarProperty Name="DATAa" ColumnName="DATAa" />
+          <ScalarProperty Name="IIndexx" ColumnName="IIndexx" />
+          <ScalarProperty Name="GOROD" ColumnName="GOROD" />
+          <ScalarProperty Name="ULICA" ColumnName="ULICA" />
+          <ScalarProperty Name="Dom" ColumnName="Dom" />
+          <ScalarProperty Name="KV" ColumnName="KV" />
+          <ScalarProperty Name="email" ColumnName="email" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
