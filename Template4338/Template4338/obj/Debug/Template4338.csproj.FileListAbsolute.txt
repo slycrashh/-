@@ -67,3 +67,6 @@ D:\лабы\Template4338\Template4338\Template4338\Template4338\obj\Debug\Templa
 D:\лабы\Template4338\Template4338\Template4338\Template4338\obj\Debug\Template4338.csproj.GenerateResource.cache
 D:\лабы\Template4338\Template4338\Template4338\Template4338\obj\Debug\Template4338.csproj.CoreCompileInputs.cache
 D:\лабы\Template4338\Template4338\Template4338\Template4338\obj\Debug\Template.2EEF1948.Up2Date
+D:\лабы\Template4338\Template4338\Template4338\Template4338\bin\Debug\Newtonsoft.Json.dll
+D:\лабы\Template4338\Template4338\Template4338\Template4338\bin\Debug\Newtonsoft.Json.xml
+D:\лабы\Template4338\Template4338\Template4338\Template4338\bin\Debug\ru\EntityFramework.SqlServer.resources.dll

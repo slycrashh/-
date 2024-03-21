@@ -41,5 +41,7 @@
         <Button Grid.Row="6" x:Name="b" Content="Click"></Button>
         <Button Grid.Row="7" Click="b2_Click"  x:Name="b2" Content="Импорт"></Button>
         <Button Grid.Row="8" Click="b3_Click"  x:Name="b3" Content="Экспорт"></Button>
+        <Button Grid.Row="9" Click="b4_Click"  x:Name="b4"  Content="Импорт json"></Button>
+        <Button Grid.Row="10" Click="b5_Click"  x:Name="b5" Content="Экспорт json"></Button>
     </Grid>
 </Window>

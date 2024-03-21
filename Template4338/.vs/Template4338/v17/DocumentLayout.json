@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{E9AE570E-75AB-4C39-8899-3007FA849529}|Template4338\\Template4338.csproj|solutionrelative:template4338\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9AE570E-75AB-4C39-8899-3007FA849529}|Template4338\\Template4338.csproj|D:\\\u043B\u0430\u0431\u044B\\Template4338\\Template4338\\Template4338\\template4338\\isrpo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9AE570E-75AB-4C39-8899-3007FA849529}|Template4338\\Template4338.csproj|solutionrelative:template4338\\isrpo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E9AE570E-75AB-4C39-8899-3007FA849529}|Template4338\\Template4338.csproj|D:\\\u043B\u0430\u0431\u044B\\Template4338\\Template4338\\Template4338\\template4338\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E9AE570E-75AB-4C39-8899-3007FA849529}|Template4338\\Template4338.csproj|solutionrelative:template4338\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9AE570E-75AB-4C39-8899-3007FA849529}|Template4338\\Template4338.csproj|D:\\\u043B\u0430\u0431\u044B\\Template4338\\Template4338\\Template4338\\template4338\\isrpo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9AE570E-75AB-4C39-8899-3007FA849529}|Template4338\\Template4338.csproj|solutionrelative:template4338\\isrpo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E9AE570E-75AB-4C39-8899-3007FA849529}|Template4338\\Template4338.csproj|D:\\\u043B\u0430\u0431\u044B\\Template4338\\Template4338\\Template4338\\template4338\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
@@ -56,23 +56,22 @@
               "RelativeDocumentMoniker": "Template4338\\MainWindow.xaml.cs",
               "ToolTip": "D:\\\u043B\u0430\u0431\u044B\\Template4338\\Template4338\\Template4338\\Template4338\\MainWindow.xaml.cs",
               "RelativeToolTip": "Template4338\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAEwAAAAAAAAAAAAqwGcAAAAgAAAA",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAQwOIAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-06T14:12:02.978Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "isrpo.cs",
               "DocumentMoniker": "D:\\\u043B\u0430\u0431\u044B\\Template4338\\Template4338\\Template4338\\Template4338\\isrpo.cs",
               "RelativeDocumentMoniker": "Template4338\\isrpo.cs",
               "ToolTip": "D:\\\u043B\u0430\u0431\u044B\\Template4338\\Template4338\\Template4338\\Template4338\\isrpo.cs",
               "RelativeToolTip": "Template4338\\isrpo.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAADwvycAAAAZAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAcwBoAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T07:17:49.518Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-17T07:17:49.518Z"
             },
             {
               "$type": "Document",
@@ -87,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\\u043B\u0430\u0431\u044B\\Template4338\\Template4338\\Template4338\\Template4338\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Template4338\\MainWindow.xaml",
